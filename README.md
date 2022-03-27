@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @traviscancode604
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning on Launch School
+# Hello world!
+Hi! I'm Travis
+- 🔨 Independent Contractor / DevOps Engineer
+- 📜 Life long learning
+- 🏫 Experience with Node.js, Python and C
+- 👷 Professional Engineer with 10+ years experience in facilities management and building automation
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
