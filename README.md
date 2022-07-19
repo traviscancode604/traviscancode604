@@ -1,6 +1,6 @@
 # hello world
 Hi, I'm Travis!
-- 🔨 Independent Contractor / DevOps Engineer
+- 🔨 DevOps Engineer
 - 📜 Experience with Node.js, Python and C
 - 🏫 Life long learner
 - 👷 Professional Engineer with 10+ years experience in facilities management and building automation
