@@ -1,8 +1,9 @@
 # hello world
 Hi, I'm Travis!
 - 🔨 DevOps Engineer
-- 📜 Experience with Node.js, Python and C
 - 🏫 Life long learner
+- :godmode: Hobbyist Unity Developer
+- 📜 Experience with Node.js, Python, C and C#
 - 👷 Professional Engineer with 10+ years experience in facilities management and building automation
 <!---
 - 💞️ I’m looking to collaborate on ...
