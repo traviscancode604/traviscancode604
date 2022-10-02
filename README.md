@@ -3,7 +3,7 @@ Hi, I'm Travis!
 - 🔨 DevOps Engineer
 - 🏫 Life long learner
 - :godmode: Hobbyist Unity Developer
-- 📜 k8s, Node.js, Python, C, C#, ELK Stack
+- 📜 k8s, Node.js, Python, ELK Stack
 - 👷 Professional Engineer with 10+ years experience in facilities management and building automation
 <!---
 - 💞️ I’m looking to collaborate on ...
