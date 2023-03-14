@@ -2,8 +2,9 @@
 Hi, I'm Travis!
 - 🔨 DevOps Engineer
 - 🏫 Life long learner
+- 📜 Node.js (Express), Python, MongoDB, PostgreSQL, React, Redux
+- :abacus: Docker, Kubernetes, OpenShift Container Platform, Bash, Dynatrace, Elastic, Jenkins, GitHub Actions, Git, AquaSec, Artifactory, Nexus, UrbanCode Deploy, HashiCorp Vault
 - :godmode: Hobbyist Unity Developer
-- 📜 k8s, Node.js, Python, ELK Stack
 - 👷 Professional Engineer with 10+ years experience in facilities management and building automation
 <!---
 - 💞️ I’m looking to collaborate on ...
