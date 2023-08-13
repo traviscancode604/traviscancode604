@@ -1,11 +1,12 @@
 # hello world
 Hi, I'm Travis!
 - 🔨 DevOps Engineer
-- 🏫 Life long learner
-- 📜 Node.js (Express), Python, MongoDB, PostgreSQL, React, Redux
-- :abacus: Docker, Kubernetes, OpenShift Container Platform, Bash, Dynatrace, Elastic, Jenkins, GitHub Actions, Git, AquaSec, Artifactory, Nexus, UrbanCode Deploy, HashiCorp Vault
-- :godmode: Hobbyist Unity Developer
-- 👷 Professional Engineer with 10+ years experience in facilities management and building automation
+- 🏫 Life Long Learner
+- :godmode: Video Game Connoisseur 
+- 👷 Professional Engineer (Non-Practising)
+- 📜 Express, Next.js, Node, MongoDB, Python, PostgreSQL, React, Redux
+- :abacus: AquaSec, Artifactory, Bash, Docker, Dynatrace, Elastic, Git, GitLab CI, GitHub, GitHub Actions, Grafana, HashiCorp Vault, Jenkins, Kubernetes, Nexus, OpenShift Container Platform, Prometheus, UrbanCode Deploy
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
