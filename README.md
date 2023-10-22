@@ -5,7 +5,7 @@ Hi, I'm Travis!
 - :godmode: Video Game Connoisseur 
 - 👷 Professional Engineer (Non-Practising)
 - 📜 Express, Next.js, Node, MongoDB, Python, PostgreSQL, React, Redux
-- :abacus: AquaSec, Artifactory, Bash, Docker, Dynatrace, Elastic, Git, GitLab CI, GitHub, GitHub Actions, Grafana, HashiCorp Vault, Jenkins, Kubernetes, Nexus, OpenShift Container Platform, Prometheus, UrbanCode Deploy
+- :abacus: AquaSec, ArgoCD, Artifactory, Bash, Docker, Dynatrace, Elastic, Git, GitLab CI, GitHub, GitHub Actions, GitLab, Gitlab CI, Grafana, HashiCorp Vault, Jenkins, Kubernetes, Linux, Nexus, OpenShift Container Platform, Prometheus, Terraform, UrbanCode Deploy, VMWare ESXi
 
 <!---
 - 💞️ I’m looking to collaborate on ...
